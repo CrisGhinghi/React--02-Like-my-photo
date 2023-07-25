@@ -9,6 +9,13 @@ With this project, I have implemented the use of one of React's fundamental func
 
 The use of 'useState' has allowed me to create interactive components that can adapt and respond in real time to user actions, specifically in this case, liking an image.
 
+<p align="center">
+  <img src="screenshot/menù-disliked.png" alt="Size Limit CLI" width="738">
+</p>
+<p align="center">
+  <img src="screenshot/menù-liked.png" alt="Size Limit CLI" width="738">
+</p>
+
 ### Languages
 • HTML<br>
 • CSS<br>
